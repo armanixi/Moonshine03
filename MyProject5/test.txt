@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 adfads
 adfidj;flk
-=======
->>>>>>> parent of 6dff52e... edit test.txt
+
+testtest
+hello
